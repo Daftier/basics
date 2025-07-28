@@ -37,7 +37,8 @@ string= 'abcdefghijk'
 print(string[:5])
 print(string[2:])
 print(string[2:7])
-
+print("hi")
+print('hello')
 
 
 
