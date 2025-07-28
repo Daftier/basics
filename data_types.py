@@ -38,6 +38,13 @@ print(string[:5])
 print(string[2:])
 print(string[2:7])
 
+#string[start:end:step]
+print(string[0:7:2])
+print(string[::3])
+print(string[2::3])
+print(string[:9:3])
+print("Hello World"[0])
+
 
 
  
